@@ -1,0 +1,15 @@
+{
+  "originHash" : "64f206836bb6e2d57cc1dcf88d880e1373602a4fbe341f7867131cf5745ff928",
+  "pins" : [
+    {
+      "identity" : "networking",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/irinkadat/Networking",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a08656941e41e0149b8aa992e73ecd71f1c099e3"
+      }
+    }
+  ],
+  "version" : 3
+}
